@@ -1,6 +1,6 @@
 {
     "name":                 "foremost",
-    "version":              "0.0.2",
+    "version":              "1.0.0",
     "description":
 
       "Ensure that a required package is the same as the one as the one required by the main module.",
