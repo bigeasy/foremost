@@ -1,20 +1,20 @@
-Foremost
+[![Actions Status](https://github.com/bigeasy/foremost/workflows/Node%20CI/badge.svg)](https://github.com/bigeasy/foremost/actions)
+[![codecov](https://codecov.io/gh/bigeasy/foremost/branch/master/graph/badge.svg)](https://codecov.io/gh/bigeasy/foremost)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Ensure that a required package is the same as the one as the one required by the
-main module.
+A comparator function builder.
 
-    Discussion:     https://github.com/bigeasy/foremost/issues/1
+| What          | Where                                         |
+| --- | --- |
+| Discussion    | https://github.com/bigeasy/foremost/issues/1  |
+| Documentation | https://bigeasy.github.io/foremost            |
+| Source        | https://github.com/bigeasy/foremost           |
+| Issues        | https://github.com/bigeasy/foremost/issues    |
+| CI            | https://travis-ci.org/bigeasy/foremost        |
+| Coverage:     | https://codecov.io/gh/bigeasy/foremost        |
+| License:      | MIT                                           |
 
-    Documentation:  https://bigeasy.github.io/foremost
-    Source:         https://github.com/bigeasy/foremost
-    Issues:         https://github.com/bigeasy/foremost/issues
-    CI:             https://travis-ci.org/bigeasy/foremost
-    Coverage:       https://coveralls.io/github/bigeasy/foremost
 
-    Install:        `npm install foremost`
-
-    License:        MIT
-
-To learn everything you want to know about Foremost start here:
-
-    http://bigeasy.github.io/foremost
+```
+npm install foremost
+```
